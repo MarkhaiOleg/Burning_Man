@@ -91,13 +91,14 @@ line-height: 45px;
 .offer button{
     width: 240px;
     height: 60px;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 26px;
     background: none;
     background-color: #fff;
     color: #000;
     border-radius: 20px;
     border: none;
+    font-family: 'Anton',sans-serif;
 }
 
 .offer button:hover{
